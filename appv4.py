@@ -120,20 +120,16 @@ elif page == "[02] ABOUT_US":
     
     **Shashwat Tripathi**  
     *Co-Founder & Logic Wrangler*  
-    Surviving on C programming, Github Codespaces on an iPad, and trying to keep the ping stable on CODM over Wi-Fi. 
     
     **Gautam Verma**  
     *Co-Founder & System Architect*  
-    [Add a witty one-liner about your teammate here, e.g., "The one actually typing on a laptop."]
     
     We built this because we were tired of staring at blurry PDFs trying to figure out if it was a pointer asterisk or just a smudge on the scanner.
     """)
 
 # PAGE 3: ORIGIN STORY
 elif page == "[03] ORIGIN_STORY":
-    st.title("Project: Genesis_")
-    st.image("https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1000", caption="Building the plane while flying it.")
-    
+    st.title("Project: Genesis_") 
     st.markdown("""
     ### The Ziro Digital Hackathon 2026
     
